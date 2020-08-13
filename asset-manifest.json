@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/dooftsaf.manager/static/css/main.c77f04b3.chunk.css",
+    "main.js": "/dooftsaf.manager/static/js/main.9dabfd82.chunk.js",
+    "main.js.map": "/dooftsaf.manager/static/js/main.9dabfd82.chunk.js.map",
+    "runtime-main.js": "/dooftsaf.manager/static/js/runtime-main.459c0d56.js",
+    "runtime-main.js.map": "/dooftsaf.manager/static/js/runtime-main.459c0d56.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/dooftsaf.manager/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.282ac340.chunk.js": "/dooftsaf.manager/static/js/2.282ac340.chunk.js",
+    "static/js/2.282ac340.chunk.js.map": "/dooftsaf.manager/static/js/2.282ac340.chunk.js.map",
+    "index.html": "/dooftsaf.manager/index.html",
+    "precache-manifest.63652bd872cbe9bd01fdd7e479c3af29.js": "/dooftsaf.manager/precache-manifest.63652bd872cbe9bd01fdd7e479c3af29.js",
+    "service-worker.js": "/dooftsaf.manager/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/dooftsaf.manager/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.c77f04b3.chunk.css.map": "/dooftsaf.manager/static/css/main.c77f04b3.chunk.css.map",
+    "static/js/2.282ac340.chunk.js.LICENSE.txt": "/dooftsaf.manager/static/js/2.282ac340.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.459c0d56.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.282ac340.chunk.js",
+    "static/css/main.c77f04b3.chunk.css",
+    "static/js/main.9dabfd82.chunk.js"
+  ]
+}
