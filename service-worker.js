@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/dooftsaf.manager/precache-manifest.63652bd872cbe9bd01fdd7e479c3af29.js"
+  "/dooftsaf.manager/precache-manifest.7984a9859100fff23661b72fa024c443.js"
 );
 
 self.addEventListener('message', (event) => {

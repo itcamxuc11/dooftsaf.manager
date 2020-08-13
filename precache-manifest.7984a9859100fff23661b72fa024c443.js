@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "64f9d71bf996f82aa2c8840499cfc40a",
+    "revision": "6fd72abfff73711a7f0eba79aaf230c3",
     "url": "/dooftsaf.manager/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dooftsaf.manager/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "e84cca681af56d122749",
+    "revision": "732b4521c659d977a2ab",
     "url": "/dooftsaf.manager/static/css/main.c77f04b3.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dooftsaf.manager/static/js/2.282ac340.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e84cca681af56d122749",
-    "url": "/dooftsaf.manager/static/js/main.9dabfd82.chunk.js"
+    "revision": "732b4521c659d977a2ab",
+    "url": "/dooftsaf.manager/static/js/main.316d9232.chunk.js"
   },
   {
     "revision": "8a13e9369bc7e3a1cef0",
